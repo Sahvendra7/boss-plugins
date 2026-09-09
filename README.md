@@ -29,6 +29,7 @@ New to building BOSS plugins? Start with the **[plugin authoring docs](docs/)**:
 | Plugin | Description |
 |--------|-------------|
 | [admin-role-management](admin-role-management/) | Assign roles to users; the people half of RBAC |
+| [agent-hq](agent-hq/) | Named specialised agents with direct messages, channels and handoffs |
 | [analytics](analytics/) | Vendor-neutral product analytics pipeline (PostHog backend, pluggable sinks, consent + PII scrubbing) |
 | [bookmarks](bookmarks/) | Bookmarks |
 | [boss-microkernel-runtime](boss-microkernel-runtime/) | Shared runtime for out-of-process plugin child JVMs; not itself a plugin |
