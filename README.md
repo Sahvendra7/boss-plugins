@@ -48,7 +48,6 @@ New to building BOSS plugins? Start with the **[plugin authoring docs](docs/)**:
 | [kubernetes](kubernetes/) | Kubernetes cluster manager - workloads, pods, services, live logs, supervised port-forwards and inline service previews |
 | [llmrpa](llmrpa/) | Draft RPA actions from a plain-language instruction via an LLM |
 | [mission-control](mission-control/) | Semantic mission state and cooperative human-agent handoff |
-
 | [organisation](organisation/) | Organisation membership, roles and discovery; opens the org web pages |
 | [performance](performance/) | Live JVM telemetry: heap, CPU, GC, threads, network and per-plugin memory |
 | [plugin-manager](plugin-manager/) | Toolbox: the plugin store client - install, update, MCP tool toggles, publish |
