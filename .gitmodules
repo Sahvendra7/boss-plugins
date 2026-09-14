@@ -114,4 +114,4 @@
 	url = https://github.com/risa-labs-inc/boss-plugin-deepseek-harness.git
 [submodule "mission-control"]
 	path = mission-control
-	url = https://github.com/Sahvendra7/boss-plugin-mission-control.git
+	url = https://github.com/kshivang/boss-plugin-mission-control.git
